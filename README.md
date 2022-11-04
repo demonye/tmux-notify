@@ -17,7 +17,7 @@ alias tnotify='~/.tmux/plugins/tmux-notify/tmux-notify.sh'
 
 ### Run this to show a notification in the tmux status bar.
 ```
-tnoitify 'This is a test message!'
+tnotify 'This is a test message!'
 ```
 
 ### Clear the notification
